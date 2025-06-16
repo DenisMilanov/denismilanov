@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Denis Milanov
 
-🎓 Bachelor’s Degree from <a href="https://www.aubg.edu" target="_blank" rel="noopener noreferrer">American University in Bulgaria (AUBG)</a>  
-🎓 Double Major in Business Administration & Economics, Minor in Finance  
-🏫 Alumni of <a href="https://www.smg.bg" target="_blank" rel="noopener noreferrer">Sofia High School of Mathematics (SMG)</a>
-💻 Full Stack Developer with a Frontend Focus and 3+ years of experience building ERP systems and smart business tools 
-📊 Passionate about fintech, risk management, and AI-driven automation  
+🎓 Bachelor’s Degree from <a href="https://www.aubg.edu" target="_blank" rel="noopener noreferrer">American University in Bulgaria (AUBG)</a><br>
+🎓 Double Major in Business Administration & Economics, Minor in Finance<br>
+🏫 Alumni of <a href="https://www.smg.bg" target="_blank" rel="noopener noreferrer">Sofia High School of Mathematics (SMG)</a><br>
+💻 Full Stack Developer with a Frontend Focus and 3+ years of experience building ERP systems and smart business tools<br>
+📊 Passionate about fintech, risk management, and AI-driven automation<br>
 🌍 Based in Bulgaria | Working on solutions that blend finance, tech, and innovation
 
 ---
