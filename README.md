@@ -63,7 +63,7 @@ I am currently working with, learning, and expanding my skills in the following 
 </p>
 
 <p align="left">
-  <a href="mailto:denis.milanov@protonmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:denis@milanov.bg" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-555555?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
   </a>
 </p>
